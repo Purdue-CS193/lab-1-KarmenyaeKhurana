@@ -1,6 +1,6 @@
 # Karmenyae's first CS193 Lab
 # Things About Purdue
--Best For CS!
+- Best For CS!
 
 ## Welcome to GitHub Pages
 
